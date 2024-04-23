@@ -415,8 +415,15 @@ h1,h2,h3,h4,h5{
 	margin-right: 10px; /* Espacio entre los iconos */
 }
 
+.container--flex {
+	display: flex;
+	flex-wrap: wrap;
+}
 
-
+.registration-form,
+.mapouter {
+	flex: 1;
+}
 
 
 
