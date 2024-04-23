@@ -131,10 +131,10 @@ h1,h2,h3,h4,h5{
     
 }
 .menu__link:hover{
-     background-color: #DE423A;
+     background-color: #d31616;
 }
 .menu__link--select{
-    background-color: #DE423A;
+    background-color: #d31616;
     
 }
 .mostrar{
@@ -199,8 +199,8 @@ h1,h2,h3,h4,h5{
 	text-align: center;
 	text-decoration: none;
 	width: 120px;
-	background: #DE423A;
-	color: #fff;
+	background: gold;
+	color: #000000;
 	padding:10px;
 	margin: 10px auto;
 	
@@ -231,7 +231,7 @@ h1,h2,h3,h4,h5{
 }
 .today-special__price{
 	font-size: 1.5em;
-	color: #DE423a;
+	color: gold;
 	font-weight: bold;
 }
 
