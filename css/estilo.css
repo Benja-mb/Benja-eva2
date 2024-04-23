@@ -398,8 +398,22 @@ h1,h2,h3,h4,h5{
 	}
 }
 
+.carousel-item img {
+    max-height: 500px; /* Establece la altura máxima de las imágenes */
+    width: auto; /* Permite que el ancho se ajuste automáticamente para mantener la proporción */
+}
 
-
+.icon-container {
+	display: flex; /* Utiliza flexbox para alinear los iconos */
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+.icon-img {
+	width: 48px;
+	height: 48px;
+	margin-right: 10px; /* Espacio entre los iconos */
+}
 
 
 
